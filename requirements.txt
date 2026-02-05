@@ -1,0 +1,7 @@
+pandas
+numpy
+openpyxl
+PyPDF2
+faiss-cpu
+ollama
+sentence-transformers
